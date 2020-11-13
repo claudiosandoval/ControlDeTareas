@@ -1,0 +1,45 @@
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tareas.Datos\bin\Debug\Tareas.Datos.dll
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tareas.Datos\bin\Debug\Tareas.Datos.pdb
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tareas.Datos\bin\Debug\Tarea.Entidades.dll
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tareas.Datos\bin\Debug\Tarea.Entidades.pdb
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.csprojAssemblyReference.cache
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.csproj.CoreCompileInputs.cache
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.csproj.CopyComplete
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.dll
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.pdb
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\bin\Debug\Tareas.Datos.dll
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\bin\Debug\Tareas.Datos.pdb
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\bin\Debug\Tarea.Entidades.dll
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\bin\Debug\Tarea.Entidades.pdb
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.csprojAssemblyReference.cache
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.csproj.CoreCompileInputs.cache
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.csproj.CopyComplete
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.dll
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\bin\Debug\Tareas.Datos.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\bin\Debug\Tareas.Datos.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\bin\Debug\Tarea.Entidades.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\bin\Debug\Tarea.Entidades.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.csprojAssemblyReference.cache
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.csproj.CoreCompileInputs.cache
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.csproj.CopyComplete
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tareas.Datos\bin\Debug\Tareas.Datos.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tareas.Datos\bin\Debug\Tareas.Datos.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tareas.Datos\bin\Debug\Tarea.Entidades.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tareas.Datos\bin\Debug\Tarea.Entidades.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.csprojAssemblyReference.cache
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.csproj.CoreCompileInputs.cache
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.csproj.CopyComplete
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.csprojAssemblyReference.cache
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.csproj.CoreCompileInputs.cache
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tareas.Datos\bin\Debug\Tareas.Datos.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tareas.Datos\bin\Debug\Tareas.Datos.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tareas.Datos\bin\Debug\Tarea.Entidades.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tareas.Datos\bin\Debug\Tarea.Entidades.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tareas.Datos\obj\Debug\Tareas.Datos.csproj.CopyComplete

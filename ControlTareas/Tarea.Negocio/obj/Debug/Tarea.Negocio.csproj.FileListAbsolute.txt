@@ -1,0 +1,55 @@
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Negocio.dll
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Negocio.pdb
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Entidades.dll
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tareas.Datos.dll
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Entidades.pdb
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tareas.Datos.pdb
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.csprojAssemblyReference.cache
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.csproj.CopyComplete
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.dll
+C:\Users\sando\Downloads\Duoc\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.pdb
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Negocio.dll
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Negocio.pdb
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Entidades.dll
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tareas.Datos.dll
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Entidades.pdb
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tareas.Datos.pdb
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.csprojAssemblyReference.cache
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.csproj.CopyComplete
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.dll
+C:\Users\sando\Downloads\Duoc\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Negocio.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Negocio.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Entidades.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tareas.Datos.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Entidades.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tareas.Datos.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.csprojAssemblyReference.cache
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.csproj.CopyComplete
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Negocio.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Negocio.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Entidades.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tareas.Datos.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Entidades.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tarea.Negocio\bin\Debug\Tareas.Datos.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.csprojAssemblyReference.cache
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.csproj.CopyComplete
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas Escritorio\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.csprojAssemblyReference.cache
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Negocio.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Negocio.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Entidades.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tarea.Negocio\bin\Debug\Tareas.Datos.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tarea.Negocio\bin\Debug\Tarea.Entidades.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tarea.Negocio\bin\Debug\Tareas.Datos.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tarea.Negocio\obj\Debug\Tarea.Negocio.csproj.CopyComplete
