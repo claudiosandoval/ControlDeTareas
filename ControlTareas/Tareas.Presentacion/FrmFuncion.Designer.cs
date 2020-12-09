@@ -70,7 +70,7 @@
             this.TabGeneral.Location = new System.Drawing.Point(3, 3);
             this.TabGeneral.Name = "TabGeneral";
             this.TabGeneral.SelectedIndex = 0;
-            this.TabGeneral.Size = new System.Drawing.Size(967, 563);
+            this.TabGeneral.Size = new System.Drawing.Size(1602, 563);
             this.TabGeneral.TabIndex = 0;
             // 
             // tabPage1
@@ -86,7 +86,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 25);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(959, 534);
+            this.tabPage1.Size = new System.Drawing.Size(1594, 534);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Listado";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -114,7 +114,7 @@
             this.DgvListado.ReadOnly = true;
             this.DgvListado.RowHeadersWidth = 51;
             this.DgvListado.RowTemplate.Height = 24;
-            this.DgvListado.Size = new System.Drawing.Size(877, 392);
+            this.DgvListado.Size = new System.Drawing.Size(1523, 392);
             this.DgvListado.TabIndex = 8;
             this.DgvListado.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DgvListado_CellContentClick);
             this.DgvListado.CellPainting += new System.Windows.Forms.DataGridViewCellPaintingEventHandler(this.DgvListado_CellPainting);
@@ -130,7 +130,7 @@
             // LblTotal
             // 
             this.LblTotal.AutoSize = true;
-            this.LblTotal.Location = new System.Drawing.Point(742, 495);
+            this.LblTotal.Location = new System.Drawing.Point(1325, 495);
             this.LblTotal.Name = "LblTotal";
             this.LblTotal.Size = new System.Drawing.Size(123, 17);
             this.LblTotal.TabIndex = 7;
@@ -199,23 +199,24 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 25);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(959, 534);
+            this.tabPage2.Size = new System.Drawing.Size(1594, 534);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Mantenimiento";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // BtnCancelar
             // 
-            this.BtnCancelar.Location = new System.Drawing.Point(575, 435);
+            this.BtnCancelar.Location = new System.Drawing.Point(905, 450);
             this.BtnCancelar.Name = "BtnCancelar";
             this.BtnCancelar.Size = new System.Drawing.Size(120, 28);
             this.BtnCancelar.TabIndex = 12;
             this.BtnCancelar.Text = "Cancelar";
             this.BtnCancelar.UseVisualStyleBackColor = true;
+            this.BtnCancelar.Click += new System.EventHandler(this.BtnCancelar_Click);
             // 
             // BtnActualizar
             // 
-            this.BtnActualizar.Location = new System.Drawing.Point(285, 435);
+            this.BtnActualizar.Location = new System.Drawing.Point(586, 450);
             this.BtnActualizar.Name = "BtnActualizar";
             this.BtnActualizar.Size = new System.Drawing.Size(120, 28);
             this.BtnActualizar.TabIndex = 11;
@@ -225,7 +226,7 @@
             // 
             // BtnInsertar
             // 
-            this.BtnInsertar.Location = new System.Drawing.Point(285, 435);
+            this.BtnInsertar.Location = new System.Drawing.Point(586, 450);
             this.BtnInsertar.Name = "BtnInsertar";
             this.BtnInsertar.Size = new System.Drawing.Size(120, 28);
             this.BtnInsertar.TabIndex = 10;
@@ -236,14 +237,14 @@
             // CboDepto
             // 
             this.CboDepto.FormattingEnabled = true;
-            this.CboDepto.Location = new System.Drawing.Point(399, 333);
+            this.CboDepto.Location = new System.Drawing.Point(734, 333);
             this.CboDepto.Name = "CboDepto";
             this.CboDepto.Size = new System.Drawing.Size(271, 24);
             this.CboDepto.TabIndex = 9;
             // 
             // TxtDescripcion
             // 
-            this.TxtDescripcion.Location = new System.Drawing.Point(399, 114);
+            this.TxtDescripcion.Location = new System.Drawing.Point(734, 119);
             this.TxtDescripcion.Multiline = true;
             this.TxtDescripcion.Name = "TxtDescripcion";
             this.TxtDescripcion.Size = new System.Drawing.Size(271, 85);
@@ -251,7 +252,7 @@
             // 
             // DtpFechaTermino
             // 
-            this.DtpFechaTermino.Location = new System.Drawing.Point(399, 258);
+            this.DtpFechaTermino.Location = new System.Drawing.Point(734, 258);
             this.DtpFechaTermino.Name = "DtpFechaTermino";
             this.DtpFechaTermino.Size = new System.Drawing.Size(271, 22);
             this.DtpFechaTermino.TabIndex = 7;
@@ -259,7 +260,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(250, 258);
+            this.label5.Location = new System.Drawing.Point(567, 258);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(118, 17);
             this.label5.TabIndex = 5;
@@ -268,7 +269,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(266, 340);
+            this.label4.Location = new System.Drawing.Point(567, 340);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(102, 17);
             this.label4.TabIndex = 4;
@@ -277,7 +278,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(282, 114);
+            this.label1.Location = new System.Drawing.Point(567, 153);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(86, 17);
             this.label1.TabIndex = 1;
@@ -296,7 +297,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(994, 578);
+            this.ClientSize = new System.Drawing.Size(1632, 578);
             this.Controls.Add(this.TabGeneral);
             this.Name = "FrmFuncion";
             this.Text = "Funcion";

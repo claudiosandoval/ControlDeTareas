@@ -48,6 +48,7 @@
     <Compile Include="DDepartamento.cs" />
     <Compile Include="DFuncion.cs" />
     <Compile Include="DRol.cs" />
+    <Compile Include="DTarea.cs" />
     <Compile Include="DUsuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -46,6 +46,13 @@ namespace Tareas.Presentacion
                 DgvListado.DataSource = NDepartamento.Listar();
                 this.Limpiar();
                 LblTotal.Text = "Total Registros: " + Convert.ToString(DgvListado.Rows.Count);
+                
+                //if (DgvListado.Columns[row.Count].Name == "Departamento TI")
+                //{
+                  //  LblTotal.Text = "Total Registros: " + Convert.ToString(DgvListado.Rows.Count);
+                //}
+                //e.ColumnIndex == DgvListado.Columns["Editar"].Index
+                //Convert.ToBoolean(row.Cells["ID"].Value)
             }
             catch (Exception ex)
             {

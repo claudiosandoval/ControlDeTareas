@@ -13,7 +13,6 @@ namespace Tarea.Entidades
         public DateTime fecha_creacion { get; set; }
         public DateTime fecha_termino { get; set; }
         public bool estado_finalizacion { get; set; }
-        public int id_depto { get; set; }
-                        
+        public int id_depto { get; set; }              
     }
 }

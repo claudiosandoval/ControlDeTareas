@@ -151,10 +151,24 @@ namespace Tareas.Presentacion
             frm.Show();
         }
 
+        private void tareasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmTarea frm = new FrmTarea();
+            frm.MdiParent = this;
+            frm.Show();
+        }
+
+        private void cargaDeTrabajoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmCargaTareas frm = new FrmCargaTareas();
+            frm.MdiParent = this;
+            frm.Show();
+        }
         private void FrmPrincipal_FormClosing(object sender, FormClosingEventArgs e)
         {
             Application.Exit();
         }
+
 
         private void FrmPrincipal_Load(object sender, EventArgs e)
         {
@@ -165,7 +179,8 @@ namespace Tareas.Presentacion
             {
                 MnuAdministrador.Enabled = true;
                 MnuProcesos.Enabled = false;
-                MnuFuncionario.Enabled = true;
+                MnuFuncionario.Enabled = false;
+                MnuReportes.Enabled = true;
             }
             else
             {
@@ -174,6 +189,7 @@ namespace Tareas.Presentacion
                     MnuAdministrador.Enabled = false;
                     MnuProcesos.Enabled = false;
                     MnuFuncionario.Enabled = true;
+                    MnuReportes.Enabled = false;
                 }
                 else
                 {
@@ -181,12 +197,13 @@ namespace Tareas.Presentacion
                     {
                         MnuAdministrador.Enabled = false;
                         MnuProcesos.Enabled = true;
-                        MnuFuncionario.Enabled = false;
+                        MnuFuncionario.Enabled = true;
+                        MnuReportes.Enabled = false;
                     }
                 }
             }
         }
 
-        
+       
     }
 }

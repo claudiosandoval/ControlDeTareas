@@ -174,7 +174,6 @@ namespace Tareas.Presentacion
                     Rpta = NFuncion.Actualizar(Convert.ToInt32(TxtId.Text.Trim()), this.DescAnterior, TxtDescripcion.Text.Trim(), Convert.ToDateTime(DtpFechaTermino.Text.Trim()), Convert.ToInt32(CboDepto.SelectedValue));
                     if (Rpta.Equals("OK"))
                     {
-                        MessageBox.Show(this.DescAnterior);
                         this.MensajeOk("Se actualizó de forma correcta el registro");
                         this.Limpiar();
                         this.Listar();
@@ -304,6 +303,11 @@ namespace Tareas.Presentacion
 
                 e.Handled = true;
             }
+        }
+        private void BtnCancelar_Click(object sender, EventArgs e)
+        {
+            TabGeneral.SelectedIndex = 0;
+            this.Limpiar();
         }
 
         //MENSAJES DE ERROR

@@ -27,3 +27,9 @@ C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Contro
 C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tarea.Entidades\obj\Debug\Tarea.Entidades.csproj.CoreCompileInputs.cache
 C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tarea.Entidades\obj\Debug\Tarea.Entidades.dll
 C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tarea.Entidades\obj\Debug\Tarea.Entidades.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tarea.Entidades\bin\Debug\Tarea.Entidades.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tarea.Entidades\bin\Debug\Tarea.Entidades.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tarea.Entidades\obj\Debug\Tarea.Entidades.csprojAssemblyReference.cache
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tarea.Entidades\obj\Debug\Tarea.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tarea.Entidades\obj\Debug\Tarea.Entidades.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tarea.Entidades\obj\Debug\Tarea.Entidades.pdb

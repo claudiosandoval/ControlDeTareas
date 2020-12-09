@@ -45,6 +45,7 @@
     <Compile Include="NDepartamento.cs" />
     <Compile Include="NFuncion.cs" />
     <Compile Include="NRol.cs" />
+    <Compile Include="NTarea.cs" />
     <Compile Include="NUsuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -16,7 +16,7 @@ namespace Tarea.Negocio
             DFuncion Datos = new DFuncion();
             return Datos.Listar();
         }
-        public static string Insertar(string descripcion, DateTime fecha_termino, int id_depto)
+        public static string Insertar(string descripcion, DateTime fecha_termino, int id_depto  )
         {
             DFuncion Datos = new DFuncion();
             string existe = Datos.Existe(descripcion);

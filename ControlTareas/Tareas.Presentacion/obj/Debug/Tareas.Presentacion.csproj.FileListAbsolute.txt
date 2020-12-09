@@ -101,3 +101,29 @@ C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Contro
 C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.pdb
 C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.FrmDepartamento.resources
 C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de Tareas Escritorio V2\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.FrmFuncion.resources
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\bin\Debug\Tareas.Presentacion.exe.config
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\bin\Debug\Tareas.Presentacion.exe
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\bin\Debug\Tareas.Presentacion.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\bin\Debug\Tarea.Negocio.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\bin\Debug\Tareas.Datos.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\bin\Debug\Tarea.Entidades.dll
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\bin\Debug\Tarea.Negocio.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\bin\Debug\Tareas.Datos.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\bin\Debug\Tarea.Entidades.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.csprojAssemblyReference.cache
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.FrmContrato.resources
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.FrmDepartamento.resources
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.FrmLogin.resources
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.FrmPrincipal.resources
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.FrmRol.resources
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.FrmTarea.resources
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.FrmUsuario.resources
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.FrmFuncion.resources
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.Properties.Resources.resources
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.PruebaConexion.resources
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.csproj.GenerateResource.cache
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.csproj.CopyComplete
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.exe
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.pdb
+C:\Users\sando\Downloads\Duoc Portafolio\Portafolio\Aplicacion Escritorio\Control de tareas\Control de Tareas Escritorio\ControlTareas\Tareas.Presentacion\obj\Debug\Tareas.Presentacion.FrmCargaTareas.resources

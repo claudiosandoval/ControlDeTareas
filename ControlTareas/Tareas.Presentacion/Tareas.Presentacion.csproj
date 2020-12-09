@@ -47,6 +47,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FrmCargaTareas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCargaTareas.Designer.cs">
+      <DependentUpon>FrmCargaTareas.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmContrato.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -77,6 +83,12 @@
     <Compile Include="FrmRol.Designer.cs">
       <DependentUpon>FrmRol.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmTarea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTarea.Designer.cs">
+      <DependentUpon>FrmTarea.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -97,6 +109,9 @@
     <Compile Include="PruebaConexion.Designer.cs">
       <DependentUpon>PruebaConexion.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="FrmCargaTareas.resx">
+      <DependentUpon>FrmCargaTareas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmContrato.resx">
       <DependentUpon>FrmContrato.cs</DependentUpon>
     </EmbeddedResource>
@@ -111,6 +126,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmRol.resx">
       <DependentUpon>FrmRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTarea.resx">
+      <DependentUpon>FrmTarea.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmUsuario.resx">
       <DependentUpon>FrmUsuario.cs</DependentUpon>

@@ -99,7 +99,7 @@ namespace Tareas.Datos
             try
             {
                 OraCon = Conexion.getInstancia().CrearConexion();
-                OracleCommand Comando = new OracleCommand("pkg_funcion.sp_funcion_eliminar", OraCon);
+                OracleCommand Comando = new OracleCommand("pkg_tarea.sp_funcion_eliminar", OraCon);
                 Comando.CommandType = CommandType.StoredProcedure;
                 Comando.Parameters.Add("p_id", OracleType.VarChar).Value = Id;
                 OraCon.Open();
